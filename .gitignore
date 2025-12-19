@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# PyTorch / TensorFlow / large models
+*.pt
+*.pth
+*.h5
+*.tflite
+
+# FAISS / vector store files if you save locally
+vector_store/
+
+# Uploaded files (if you don’t want to store them in Git)
+uploads/
+processed_text/
