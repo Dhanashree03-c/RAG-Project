@@ -1,0 +1,38 @@
+Good \[morning/afternoon], respected panel members.
+Today, I will be presenting our first project: "U-Net for Cell Segmentation in Medical Images."
+This project aims to automate the task of identifying and segmenting individual cells or tissues in microscopic medical images. In real-world scenarios, pathologists manually examine these images to detect diseases like cancer. This process is time-consuming and can be prone to human error.
+To solve this, we are using a deep learning model called “U-Net, which is designed specifically for image segmentation. It takes a biomedical image as input and produces a segmentation map”, where each pixel is classified as either part of a cell or not. This helps in outlining the exact shapes and boundaries of cells.
+U-Net is widely used in medical AI research, but it is not yet widely implemented in local labs. So, our objective is to build a working version of U-Net using Indian or open-source medical datasets, and develop a user interface where medical staff or researchers can upload an image and instantly get a segmented output.
+We’re implementing this using:
+Python for model development and integration
+TensorFlow / Keras to implement the U-Net architecture
+OpenCV for image preprocessing
+Google Colab to leverage GPU resources during training
+Streamlit or Flask to build a lightweight web-based interface for testing or demonstration
+In the demo:
+The user uploads a microscope image (e.g., of stained tissue or cell culture).
+The image is preprocessed (resized, normalized, converted to grayscale or RGB).
+The trained U-Net model processes the image and returns a segmentation mask.
+The mask is displayed over the original image, showing exactly where the cells are.
+Users can download the result or view segmentation statistics like pixel area or count.
+Why This Project Is Important
+This project contributes to medical diagnostics by offering a way to reduce dependency on manual examination and allow faster, more accurate cell segmentation. It is especially useful in pathology labs for early disease diagnosis like cancer detection or blood cell analysis.
+It also provides us, as students, with real-world exposure to computer vision in healthcare, a growing area in applied AI.
+1. What is U-Net, and how is it different from other CNNs?
+Answer: U-Net is a CNN designed for semantic segmentation — it predicts class labels for each pixel in the image. It differs from standard CNNs, which usually output a single label per image. U-Net has an encoder–decoder structure, where the encoder extracts features and the decoder reconstructs a pixel-wise mask. It also uses skip connections to preserve spatial information, which is critical for medical image precision.
+
+2.What metrics will you use to evaluate segmentation accuracy?
+Answer: We will use:
+Dice Coefficien (most common in medical image tasks)
+Intersection over Union (IoU)
+Pixel accuracy
+  These metrics show how closely the predicted segmentation mask matches the ground truth.
+3. Can your model generalize to different organs or cell types?
+Answer: Yes, if trained on a diverse enough dataset. However, U-Net must be retrained or fine-tuned for different types of tissues or imaging modalities (e.g., CT vs MRI vs microscopy).
+1. Why did you choose these two projects?
+Answer: We selected this project because it solves real-world problems using cutting-edge deep learning techniques. U-Net addresses a critical need in medical diagnostics by automating cell segmentation, which saves time and improves accuracy in pathology. This is impactful, research-backed, and technically challenging enough for a major project.
+
+2. Are these original ideas? Do they already exist?
+Answer: the model exists in research, but our implementations are unique. In the case of U-Net, we focus on Indian medical datasets and build a working demo for practical lab use. Our originality comes from domain focus, dataset choice, and real-time demo applications.
+3. What are the key challenges you faced (or expect to face)?
+Answer: For U-Net: Getting clean, labelled cell segmentation datasets, and avoiding overfitting on small samples.

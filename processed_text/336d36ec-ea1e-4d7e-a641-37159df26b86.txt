@@ -1,0 +1,530 @@
+Topic: AVERAGE
+1. In the first 8 overs of a cricket game, the run rate was only 4.5. What should be the run rate in the
+remaining 42 overs to reach the target of 309 runs?
+A. 6.25 B. 6.5 C. 6.75 D. 7
+2. The average age of A, B and C is 27 years. If the average age of B and C is 29 years, what is the age of
+A in a year?
+A. 25 years B. 24 years C. 23 years D. 22 years
+3. The average age of husband and wife is 27 years. Five years hence, the average age of the husband, wife
+and child is 22 years. The age of child is
+A. 1 years B. 2 years C. 3 years D. 4 years
+4. Average weight of 21 students is 32 kg. If the average weight increases by 0.5 kg when Suresh, one of
+the students leaves the group, what is the Suresh’s weight?
+A. 20 kg B. 21 kg C. 22 Kg D. 23 Kg
+5. The average monthly income of a family of four earning members was Rs. 25000. One of the daughters
+in the family got married and left home, so the average monthly income of the family became Rs.
+26090. What is the monthly income of the married daughter?
+A. 25640 B. 22630 C. 30000 D. 21730
+6. The average of five consecutive numbers is 36. The highest of these numbers is:
+A. 38 B.37 C. 36 D. 35
+7. There were 35 students in a hostel. Due to the admission of 7 new students the expenses of the mess
+were increased by Rs.42 per day while the average expenditure per head diminished by Re 1. What was
+the original expenditure of the mess?
+A. Rs 540 B. Rs 500 C. Rs 460 D. Rs 420
+8. The average salary of all the workers in a workshop is Rs.11000. The average salary of 11 technicians is
+Rs.15000 and the average salary of the rest is Rs.8800. The total number of workers in the workshop is:
+A. 30 B.31 C.32 D.28
+9. A library has an average of 510 visitors on Sundays and 240 on other days. The average number of
+visitors per day in a month of 30 days beginning with a Sunday is
+A. 420 B. 315 C. 300 D. 285
+10. A student's mark was wrongly entered as 75 instead of 57. Due to that the average marks for the class
+got increased by one third. What is the number of students in the class?
+A.18 B. 36 C. 54 D. 72
+1 2 3 4. 5. 6. 7 8. 9. 10.
+A C B. C D A D B D C
+[ QA & Professional Skills ] Page 1Topic: LCM & HCF
+1. A number when divided by 238 leaves a remainder of 79. What will be the remainder when the number
+is divided by 17?
+A. 8 B. 9 C. 10 D. 11
+2. A number when divided by 21 leaves a remainder 7. The same number when divided by 14 leaves a
+remainder n. How many values can n take?
+A.0 B. 1 C. 2 D.3
+3. Find the greatest number that will divide 208, 222 and 264 so as to leave the same remainder in each
+case.
+A. 5 B.6 C.7 D.8
+4. Five bells commence tolling together and toll at intervals of 3, 6, 9, 12 and 15 seconds respectively. In
+30 minutes, how many times do they toll together?
+A. 10 B.11 C.12 D. 13
+5. In GovinddevJi temple there are some magical bells which toll 24 times in a day, simultaneously. But
+every bells tolls at a different interval of time, but not in a fraction of minutes. The maximum number of
+bells in the temple?
+A. 8 bells B. 10 bells C. 12 bells D. 14 bells
+6. Let N be the greatest number that will divide 12199, 13117 and 17153, leaving the same remainder in
+each case. Then sum of the digits in N is:
+A. 10 B.15 C.20 D.25
+7. The HCF of two numbers is 27 and their LCM is 1512. If one of them is 189 then the other number is?
+A. 1 B. 27 C.216 D.1512
+8. The greatest number of five digits which is divisible by 12, 15, 24 and 72 is:
+A.99360 B. 99720 C. 99820 D. 99900
+9. The sum of two non co–prime numbers added to their HCF gives us 187. How many such pairs are
+possible?
+A. 6 B.7 C. 8 D. 9
+10. 6 different sweet varieties of count 38, 76, 133, 209, 247, 190 were ordered for a particular occasion.
+They need to be packed in such a way that each box has the same variety of sweet and the number of
+sweets in each box is also the same. What is the minimum number of boxes required to pack?
+A. 57 boxes B. 19 boxes C. 51 boxes D. 47 boxes
+11. LCM of 2 natural numbers p and q where p > q is 1001. What is the maximum possible sum of the digits
+of q?
+A.2 B.8 C.10 D.14
+12. A man has certain number of small boxes to pack into parcels. If he packs 13, 14, 15 or 16 boxes in
+parcel, he is left with seven over; if he packs 17 in a parcel, none is left over. What is the number of
+boxes he may have to pack?
+A. 2723 B. 2730 C. 2737 D. 2731
+13. A Number when divided by 10 leaves a remainder 9, when divided by 9 leaves a remainder of 8, when
+divided by 8 leaves a remainder of 7………… when divided by 2 leaves a remainder of 1. Determine
+the number.
+A. 31 B. 1029 C. 2519 D. 1679
+14. The ratio of two numbers is 11: 13. If their LCM is 1001, then the difference of numbers is:
+A. 13 B. 39 C. 52 D. 143
+15 Find the greatest 6-digit number, which when divided by 8, 12, 15 and 20 leaves 5, 9, 12 & 17 as
+remainders respectively.
+A. 9,99,977 B. 9,99,963 C. 9,99,997 D. 9,99,957
+1 2 3 4. 5. 6. 7 8. 9. 10.
+[ QA & Professional Skills ] Page 2D C C B C A C B A D
+11 12 13. 14. 15. 16 17 18 19 20
+D C C C D
+[ QA & Professional Skills ] Page 3Topic: MIXTURE & ALLIGATION
+1 There was 40 litre milk in a bucket. 4 litre liquid of the bucket was replaced by water. This process was
+repeated two times again. Find the quantity of milk in the bucket at last.
+A. 18 lit B. 24.53 lit C. 32.56 lit D. 29.16 lit
+2 In what ratio must water be mixed with milk to gain 16 % on selling the mixture at cost price?
+A. 1:6 B. 6:1 C. 2:3 D. 3:2
+3. In what ratio must a grocer mix two varieties of tea worth Rs. 60 a kg and Rs. 65 a kg so that by selling
+the mixture at Rs. 68.20 a kg he may gain 10%?
+A. 3:2 B. 3:4 C. 3:5 D. 4:5
+4. A shopkeeper has 50 kg of rice. A part of which he sells at 10% profit and remaining at 5% loss. He
+gains 7% on the whole. Find the quantity sold at 10% profit.
+A. 15 kg B. 20 Kg C. 35 Kg D. 40 kg
+5. The cost of Type 1 rice is Rs. 30 per kg and Type 2 rice is Rs. 40 per kg. If both Type 1 and Type 2 are
+mixed in the ratio of 2 : 3, then the price per kg of the mixed variety of rice is:
+A. Rs 34/ Kg B. Rs 35/ Kg C. Rs 36/ Kg D. Rs 37/ Kg
+6. A container contain 36 litre of pure milk. First, it is replaced by 6 litre of water, the by 4 liter and lastly
+by 3 litre. Find the amount of pure milk in container
+A. 24 lit B. 24.44 lit C. 25.44 lit D. 25.55 lit
+7. In what ratio must a person mix three kinds of metal costing Rs.80/kg, Rs.110/kg and Rs.150 /kg so that
+the resultant alloy when sold at Rs.138/kg results in a gain of 20%?
+A. 1:7:1 B. 1:7:2 C. 2:7:2 D. 2:7:1
+8. How many liters of water should be added to a 30 liters mixture of milk and water containing milk and
+water in the ratio of 7 : 3 such that the resultant mixture has 40% water in it
+A. 5 liter B. 7 liter C. 10 liter D. 12 liter
+9. A merchant has 1000 kg of sugar, part of which he sells at 8% profit and the rest at 18% profit. He gains
+14% on the whole. The quantity sold at 18% profit is:
+A. 400 kg B. 560 kg C. 600 kg D. 640 Kg
+10. A mixture of 70 litres of wine and water contains 10% water. How much water should be added to make
+25% water in the resulting mixture?
+A. 1 lit B. 2 lit C. 15 lit D. 14 lit
+1 2 3 4. 5. 6. 7 8. 9. 10.
+D A A D C B B A C D
+[ QA & Professional Skills ] Page 4Topic: Number System
+1. What is the 899th digit from the right in (2300)449?
+A. 0 B. 3 C. 9 D. 1
+2. Find the value of |A-B| if 32A4873B is divisible by 72.
+A.3 B.6 C.9 D. 7
+3. Numbers A, B, C and D have 49, 50, 51 and 52 factors. Which of these could be a perfect cube?
+A. A and C B. A and D C. A, B and C D. B and D
+4. Find the unit digit of the number (13)150
+A. 7 B. 9 C. 0 D. 1
+5. A number N2 has 15 factors. How many factors can N have?
+A. 8 or 11 Factors B. 6 or 9 factors C. 8 or 9 factors D 6 or 8 factors
+6. Find the unit digit in the expression (7)15+(15)7
+A. 9 B. 8 C. 4 D. 2
+7. Find the number of zeros in the 624!
+A.152 B.150 C.154 D.156
+8. Find the number of odd factors for the number 2002.
+A. 4 B.8 C. 9 D. 16
+9. How many factors of 25 * 36 * 52 are perfect squares?
+A.42 B. 26 C. 24 D. 52
+10. Find the remainder when 880 is divided by 17?
+A. 0 B. 1 C. 2 D.16
+11. Find the remainder when 2396×2397×2398×2399 is divided by 24
+A.23 B.22 C.1 D.0
+12 What will be the remainder when 3333+33 is divided by 34.
+A. 1 B. 0 C.32 D. 33
+13. Total number of factors of the number 40898 except 1 and number itself.
+A.18 B.16 C. 12 D. 10
+14. Find number of zeros for the expression 104 * 153 * 162 * 205?
+A. 12 B.16 C.20 D.22
+15. The LCM of first two twin prime number is
+A. 3 B.6 C. 15 D. 35
+16. Find the value of X if the number 2378X4310 is divisible by 11.
+A. 3 B. 4 C. 5 D.6
+17. Find the unit digit in the number (17)10
+A. 7 B. 0 C. 3 D. 9
+18. What will be the tens digit in
+A. 0 B.7 C. 3 D. 5
+19. The numbers 1 to 40 are written side by side as follows: 1234567891011......3940. If the number is
+divided by 9, then what is the remainder?
+A. 6 B.4 C.2 D.1
+20. The digit by which * is to be replaced so that 37*217 is divisible by 9?
+A.2 B. 7 C. 9 D.3
+[ QA & Professional Skills ] Page 51 2 3 4. 5. 6. 7 8. 9. 10.
+B A B D D B A B C B
+11 12 13. 14. 15. 16 17 18 19 20
+D C B A C B D B D B
+[ QA & Professional Skills ] Page 6Topic: PERCENTAGE
+1. Find 63.63% of 11099.
+A. 7264 B. 7567 C. 7063 D. 6861
+2. If 49% of N is equal to 19% of 539 then N is equal to
+A. 210 B. 211 C.208 D. 209
+3. In an examination a student need 36% of marks to pass. Rahul got 323 marks and still gets fail by 19
+marks. Find the maximum marks in the examination
+A. 900 B. 950 C. 1000 D. 800
+4. Bhuvi takes some flowers in the basket and visits three temples one by one. She offers one half of the
+flowers from the basket. Id she is left with 9 flowers at the end then, find the number of flowers in the
+beginning.
+A. 24 D. 36 C. 56 D. 72
+5. The difference between the 32% and 25% of a number is 91. Find 3/13 of the number.
+A. 300 B.250 C. 200 D. 150
+6. Two students appeared at an examination. One of them secured 18 marks more than the other and his
+marks was 53% of the sum of their marks. The marks obtained by them are:
+A. 150 & 168 B. 142 & 160 C, 141& 159 D. 140 & 158
+7. In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were
+invalid. If the total number of votes was 75000, the number of valid votes that the other candidate got,
+was:
+A. 27000 B. 29000 C. 30000 D. 31000
+8. A’s Salary is 10% more than B’s Salary and B’s Salary is 10% less than C’s Salary. By how much %
+A’s salary is as compared to C
+A. 1% more B. 1% less C. 20% less D. Both salaries are equal.
+9. Price of Sugar is increased by 20%. By how much percentage a person should reduce his consumption
+so that his expenditure remains same.
+A. 20% B. 15% C. D.
+10. Mr. Naveen Jain donates 15% of his monthly income to charity. This month he gave to charity which is
+80% of what he donates every month. What is the monthly income of Mr. Naveen Jain?
+A. Rs. 70000 B. Rs 7000 C. Rs 68000 D. Rs 60000
+11. Side of square is increased by 20%. By how much % the area of the square increased.
+A. 20% B. 40% C. 80% D. 44%
+12. The value of car is reduced by 25% per year. If the total value decreased in 2 years is Rs 109375 then
+find the original price of car.
+A. Rs 1,87,500 B. Rs 1,40,625 C. Rs 2,50,000 D. Rs 2,00,000
+13. Find the weight of pure gold in 10 gm of 20 carat. It is given that 24 carat gold is cent per cent pure
+gold.
+A. 9.5 gm B. 8 gm C. 8.33 gm D. 10 gm
+14. 35% of the population of a town are men and 40% are women. If the number of children is 20000, find
+the number of women.
+A. 32000 B. 25000 C. 40000 D. 35000
+15 Vedik income is Rs 40000 per month. He saves 11% of his income. If his income is increased by 10%
+he reduces his savings by 1%, how much does he save now?
+A. Rs 4400 B. Rs 4000 C. Rs 3500 D. Rs 3800
+1 2 3 4. 5. 6. 7 8. 9. 10.
+C D B D A C A B C A
+11 12 13. 14. 15. 16 17 18 19 20
+D C C A A
+[ QA & Professional Skills ] Page 7[ QA & Professional Skills ] Page 8Topic: Problems on Age
+1. The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the
+youngest child?
+A. 4 years B. 6 years C. 8 Years D. 10 years
+2. The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56.
+Find their present ages (in years).
+A. 8,20,28 B. 16.28,36 C. 20,35,45 D. None
+3. Vibha’s father was 38 years of age when she was born while her mother was 36 years old when her
+brother four years younger to her was born. What is the difference between the ages of her parents?
+A. 2 years B. 4 years C. 6 Years D. 8 years
+4. Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is
+definitely the difference between R and Q's age?
+A. 1 year B. 2 years C. 25 year D. Data Inadequate
+5. A and B are 50 and 70 years old how many years ago was ratio of their ages 2:3
+A. 5 years B. 10 years C. 15 years D. 20 years
+6. The average age of A and B is 20 years. If C were to replace A, the average would be 19 and the average
+age of C and A would be 21. The ages of A, B and C respectively are:
+A. 18,20,22 B. 20,18,22 C. 22,18,20 D. 22,20,18
+7. The present age of A is equal to B's age ten years ago. Four years hence, the ratio of the ages of A and B
+will be 3: 5. Find the present age of A.
+A. 11 years B. 20 years C. 15 years D. 16 years
+8. The ratio of the present age of A to that of B is 4: 7. After ten years, the ratio of the ages of A and B will
+be 3: 4. What will be the ratio of age of A after five years to the present age of B?
+A. 12:7 B. 9:4 C. 13:14 D. 11:6
+9. The Present age of Aman and his wife are in the ratio of 7: 6. After two years, the ratio of ages will be
+22: 19. At the time of their first child birth, the ratio of their ages was 6: 5. How many years ago did they
+have the first child?
+A. 5 B. 8 C. 6 D. 7
+10. The ratio of the ages of man and his wife is 4:3, After 4 years, the ratio will be 9:7. If at the time of
+marriage, the ratio was 5:3, how many years ago they were married?
+A. 12 years B. 10 years C. 8 years D. 6 years
+1 2 3 4. 5. 6. 7 8. 9. 10.
+A B C D B C A C C A
+[ QA & Professional Skills ] Page 9Topic: PROFIT & LOSS
+1. If selling price is doubled, the profit triples. Find the profit percent.
+A. B. C. D,
+2. A person marks his goods 45% higher than the cost price and allows a discount of 20%. The percentage
+profit is:
+A. B. C. D.
+3. A Man sells an article at a loss of 15%. If he had received Rs. 33 more, he would have gained 7%. The
+cost price of the article is:
+A. Rs. 120 B. Rs. 130 C. Rs. 150 D. Rs. 160
+4. What is a single discount equivalent to a discount series of 30%, 20% and 10% respectively?
+A. B. C.6 D.
+5. The cost price of 30 articles is the same as the selling price of x articles. If the profit is 20%, then the
+value of x is:
+A. 35 B. 20 C. 25 D. 15
+6. A dishonest shopkeeper professes to sell potatoes at the cost price, but he weighs 930 gm, instead of one
+kg. What is the % of profit?
+A. 7% B.7.25% C. 7.4% D. 7.53%
+7. A shopkeeper increased the price of a product by 50% and later on he reduced the price by 50%.
+Shopkeeper’s loss was:
+A. 0% B. 2.5% C. 25% D. 0.25%
+8. A retailer buys 50 pens at market price of 44 pens from a whole seller. He sells these pens giving a
+discount of 1%. What is profit %?
+A. B. C. D.
+9. The percentage increase in the number of pens sold by a trader from Tuesday to Wednesday is same as
+the percentage decrease in the number of pens sold from Monday to Tuesday. On Wednesday the trader
+sold 32 pens more than those he sold on Tuesday. If the percentage decrease in sales from Monday to
+Tuesday is 20%, how many pens did he sell on Tuesday?
+A. 80 B. 96 C. 112 D. 160
+10. A sold a watch to B at a gain of 8%, and B sold it to C at a gain of 4%. If C paid Rs. 1404 for it, the
+price paid by A was
+A. Rs. 1200 B. Rs. 1250 C. Rs. 1000 D. Rs. 1100
+11. I sold 2 washing machines for Rs. 13550 each, one at the loss of 20% and the other at the profit of 20%.
+What is the percentage of loss or profit resulted from the transaction?
+A. No profit No loss B. 10% loss C. 4% loss D. 4% profit
+12. By selling 22 articles, a shopkeeper gains a profit equal to the cost price of 2 articles. What is his profit
+percentage?
+A. B. C. D.
+13. A dishonest businessman professes to sell his articles at cost price but uses false weights to cheat the
+buyers by 10% while buying, and by 10% while selling. Find the profit percentage.
+A. 11.11% B. 15.00% C. 22.22% D. 50.00%
+14. A hat vendor bought hats at Rs. 7 per 5 hats. He sold them at Rs. 10 per 6 hats. What was his profit
+percentage?
+A. 17.04% B. 18.04% C. 19.04% D. 20.04%
+15. A man bought three dozen apples. He sold one third of them at the cost price of 10 apples, one third at
+the price of 12 apples and the remaining one third at the cost price of 15 apples. What is the overall gain
+or loss per cent?
+A. 2% loss B. 2% gain C. 2.77% loss D. 2.77% gain
+[ QA & Professional Skills ] Page 101 2 3 4. 5. 6. 7 8. 9. 10.
+B A C A C D C B D B
+11 12 13. 14. 15. 16 17 18 19 20
+C A C C D
+[ QA & Professional Skills ] Page 11Topic: RATIO & PROPORTION
+1. The incomes of A & B are in the ratio of 5 :7 & their expenditures are in the ratio of 3 : 5. If each saves
+Rs.1500. Find the income of B.
+A. Rs 5000 B. Rs 3750 C. Rs 5250 D. Rs 3000
+2. A and B together have Rs. 1210. If 4/15 of A's amount is equal to 2/5 of B's amount, how much amount
+does B have?
+A. Rs 460 B. Rs 484 C. Rs 550 D. Rs 646
+3. Two numbers are respectively more than and less than a third number. The ratio of the two
+numbers is:
+A. 1:1 B. 6: 5 C. 17:23 D. 23:17
+4. A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs.
+1000 more than D, what is B's share?
+A. Rs 2000 B. RS 1500 C. Rs 1000 D. Rs 500
+5. Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to
+increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?
+A. 2:3:4 B. 6:7:8 C. 6:8:9 D. None
+6. The sum of three numbers is 413. If the ratio of the first to second is 3:4 and that of the second to the
+third is 5 : 6, then the third number is:
+A, 105 B.140 C.168 D.59
+7. If Rs. 4633 be divided into three parts, proportional to 1/3 :3/4 :4/5 , then the first part is:
+A. Rs 1845 B. Rs 1640 C. Rs1968 D. Rs. 820
+8. Two number are in the ratio 3 : 5. If 9 is subtracted from each, the new numbers are in the ratio 12 : 23.
+The smaller number is:
+A. 27 B.33 C. 49 D. 55
+9. In a bag, there are notes of Rs 20, Rs 50 and Rs 100 in the ratio of 10 : 5 : 2. If there is Rs. 6500 in all,
+how many Rs 50 notes are there?
+A. 50 B. 20 C. 100 D. 30
+10. Physics tells us that the weights of objects on the moon are proportional to their weights on earth.
+Suppose a 180 lb. man weighs 30 lb. on the moon. What is the weight of a boy who weighs 15 lb. on the
+moon?
+A. 2.5 lb B. 5.0 lb C. 45 lb D. 90 lb
+11. If 2A = 3B = 4C, then A : B : C is
+A. 2:3:4 B. 4:3:2 C. 3:6:4 D. 6:4:3
+12. F is directly proportional to A. If F = 42 when A= 6, then find the value of A when F = 140.
+A. 14.5 B. 20.0 C. 25.2 D. 26.4
+13 Find the value of (4𝑥 + 3𝑦): (6𝑥 + 7𝑦), 𝑖𝑓 𝑥: 𝑦 = 1: 4
+A. 6: 11 B. 8: 17 C. 5: 13 D. 4: 5
+14. The ratio of the present age of A to that of B is 4: 7. After ten years, the ratio of the ages of A and B will
+be 3:4. What will be the ratio of age of A after five years to the present age of B?
+A. 12:7 B. 9:4 C. 13:14 D. 11:6
+15. P varies directly with the square of Q when R is constant and inversely with R when Q is constant.
+When Q =6 and R = 3, then P = 24. Find P when Q = 8 and R = 4.
+A. 48 B. 24 C. 16 D. 32
+1 2 3 4. 5. 6. 7 8. 9. 10.
+C B D A A C D B A D
+11 12 13. 14. 15.
+D B B C D
+[ QA & Professional Skills ] Page 12Topic: SI & CI
+1. A sum of Rs 12,500 amounts to Rs. 15,500 in the 4 years at the rate of simple interest. Find the rate
+percent
+A. 3% B. 4% C. 5% D. 6%
+2. At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?
+A. 6% B. 6.25% C. 6.5% D. 7%
+3. The compound interest on Rs 15625 for years at 8% per annum compounded half yearly is
+A. Rs. 1462 B. Rs 1951 C. 2621 D. Rs 3689
+4. The compound interest on Rs 5000 at 8% per annum for 2 years, compounded annually is:
+A. Rs 800 B. Rs 825 C, Rs 832 D. Rs 850
+5. Satish took a loan at 10% p.a. S.I. After 4 years, he returned the principal along with the interest. If he
+returns in all Rs. 3500, what is the principal amount?
+A. 2500 B. 3000 C. 3500 D. 4000
+6. The sum that amounts to Rs 4913 in 3 years at per annum compounded annually is
+A. Rs 3096 B. Rs 4076 C. Rs. 4085 D. Rs. 4096
+7. The difference between the compound interest and simple interest on certain sum at 10% per annum for
+2 years is Rs. 631. What is the sum?
+A. Rs. 63100 B. Rs. 56000 C. 42160 D. 68000
+8. A sum of Rs 1000 was lent to two people, one at the rate 5% and the other at the rate of 8%. If the
+simple interest after one year is Rs. 62, find the sum lent at 8% interest rate
+A. Rs 300 B. RS 400 C. Rs. 500 D. Rs 600
+9. A sum amount to Rs 1065 at simple interest rate of 7.5% per annum after 3 years. Find the sum
+A. Rs. 878.40 B. Rs. 869.38 C. Rs 869.28 D. Rs. 869.08
+10. A man deposited Rs.40,000 in a bank at 10% per annum interest compounded yearly. Now after two
+years, the government comes out with a law that any annual interest greater than Rs.2500 will be taxed
+at the end of the year. Also, the rate of interest is decreased to 8%. How much should the man withdraw
+now so as, not to pay tax at the end of the year?
+A. 25000 B. 24000 C. 17150 D. 18150
+11. Some amount out of Rs. 7,000 was lent at 6% per annum and the remaining at 4% per annum. If the total
+simple interest from both the fractions in 5 years was Rs. 1600, the sum lent at 6% per annum was:
+A. 2000 B. 2500 C. 3000 D. 3500
+12. A certain sum becomes 8 times itself in 3 years under compound interest, interest being compounded
+annually. How many years would the sum takes to become 64 times itself?
+A. 4 years B. 5 years C. 6 years D. 8 years
+13. The effective annual rate of interest corresponding to a nominal rate of 6% per annum payable half-
+yearly is:
+A. 6.0% B. 12 % C. 6.06% D. 6.09%
+14. If the simple interest on a sum of money at 10% per annum for 3 years is Rs 1500, then the compound
+interest on the same sum, at the same rate for the same period of time is
+A. Rs 1655 B. RS 1155 C. Rs. 1555 D. Rs. 1855
+15 Find the simple interest on Rs 7000 at 50/3 % for 9 months
+A. 765 B. 830 C. 735 D. 875
+1 2 3 4. 5. 6. 7 8. 9. 10.
+D A B C A D A B B C
+11 12 13. 14. 15.
+A C D A D
+[ QA & Professional Skills ] Page 13Topic: TIME & WORK
+1. Pipe A and B can fill a tank in 15 minutes and 10 minutes respectively. Pipe C can empty the tank in 5
+minutes. Pipe A and B are opened simultaneously and after 4 minute pipe C is also opened. In what time
+the tank will be emptied?
+A. 20 min B. 25 min C. 30 min D. 35 min
+2. A can finish a work in 24 days. B in 9 days and C in 12 days. B and C start the work but are forced to
+leave after 3 days. The remaining work was done by A in:
+A. 5 days B. 6 days C. 8 days D. 10 days
+3. Ajay and Bhanu can do a piece of work in 15 days and 9 days respectively. If Ajay works alternatively
+and Bhanu works daily, In how many days, the work will be completed?
+A. 3 days B. 6 days C. 7 days D. days
+4. A, B and C can do a piece of work in 19, 38 and 57 days respectively. In how many days can C do the
+work if he is assisted by A and B on every third day?
+A. 23 days B. days C. days D. 24 days
+5. Sunil can do a work in 18 days and Vinita can do the same in 27 days. With Rahul they can do the job in
+9 days. So, Rahul can do the job in:
+A. 54 days B. 108 Days C. 60 days D. 45 days
+6. A is four times as good a workman as B and, therefore, is able to finish a job in 54 days less than B.
+Working together, they can do it in:
+A. 14 days B. 14.2 days C. 14.4 days D. 14.8 days
+7. P and Q can do a work in 18 days and 24 days respectively. They worked together for 8 days and then P
+left. The remaining work was finished by Q in
+A. 5 days B. days C. days D. days
+8. The number of days in which A and B together can finish a piece of work is 45 days less than the time
+taken by A alone and 20 days less than the time taken by B alone to finish the work. If A and B
+completed the work in 27 days with the help of C and got a total compensation of Rs 4500 for the work,
+then what is the share of C?
+A. Rs 450 B. Rs 400 C. Rs 500 D. Rs 200
+9. On a certain day, Ram works at 11/7th of his usual rate of doing work and finished the work 28 minutes
+earlier than the usual time required. Had Ram worked at 7/11th of his usual rate of doing work then the
+time taken by him to complete the work would have been how much more than the usual time required?
+A. 44 min B. 53 min C. 63 min D. 70 min
+10. A and B can do a work in 12 days, B and C can do the same work in 15 days, and C and A can do the
+same work in 20 days. A, B and C will complete the work together in:
+A. 5 days B. days C. 9 days D. 10 days
+11. Two pipes A and B can fill a tank in 24 minutes and 32 minutes respectively. If both the pipes are
+opened simultaneously, after how much time should B be closed so that the tank is full in 18 minutes?
+A. 2 min B. 4 min C. 6 min D. 8 min
+12. A can complete a piece of work in 24 days, B in 40 days and C in 56 days. All the three began the work
+together but A left 2 days before the completion of the work and B left 4 days before the completion of
+work. Only C worked up to the end. In how many days was the work completed?
+A. 12 days B. 14 days C. 15 days D. 17 days
+13. A pipe can fill a bucket in 5 hours but due to a hole at the bottom it takes 6 hours to fill the bucket. How
+much time will it take to empty the bucket if it was full?
+A. 25 hours B. 30 hours C. 35 hours D. 40 hours
+14. 4 men work for 5 hours a day to finish 2 units of work, in 24 days. How many days will 6 men need to
+finish 3 units of work working 6 hours a day?
+A. 15 days B. 18 days C. 20 days D. 24 days
+[ QA & Professional Skills ] Page 1415. 15 men complete a work in 24 days while 12 women can complete it in 36 days. In how many days 12
+Men with 18 Women can complete this work.
+A. 40 days B. 20 days C. days D. dyas
+16. If the efficiency relation for A, B & C is A= 2B = 3C And A, B & C can finish a piece of work in 24
+days. Then in how many days B alone can do the same work.
+A. 77 days B. 88 days C. 99 days D. 110 days
+17. Vandana can do a piece of work in 55 days. Harshit is 50% more efficient than Vandana. The number of
+days taken by Harshit to do the same piece of work is:
+A. days B. days C. days D. days
+18. Two pipes A and B can fill a cistern in 4 hrs. Had they been opened separately, then B would have taken
+6 hrs more than A to fill the cistern. How much time will be taken by A to fill the cistern separately?
+A. 2 hours B. 4 hours C. 6 Hours D. 8 hours
+19. Two pipes A and B can fill a tank in 36 minutes and 45 minutes, another pipes C can empty the tank in
+30 minutes. Pipes A and B are opened first and then 7 minutes later pipes C is also opened. Find the
+time taken to fill the tank.
+A. 40 min B. 42 min C. 44 min D. 46 min
+20. A can plough a farm in same time as B and C together can do it. If A and B together do the same in 20
+days and C in 100 days then B could do it alone in:
+A. 50 days B. 25 days C. 75 days D. 65 days
+1 2 3 4. 5. 6. 7 8. 9. 10.
+A D C B A C D A A D
+11 12 13. 14. 15. 16 17 18 19 20
+D B B C D B A C D A
+[ QA & Professional Skills ] Page 15Topic: Time Speed & Distance
+1. In a 300 metres race A beats B by 45 m or 9 seconds. A's time over the course is:
+A. 60 Seconds B. 51 Seconds C. 40 Seconds D. 69 Seconds
+2. Jethalal covers 15 kms at the speed of 20 kmph and other 5 kms at the speed of 2.5 kmph. What is his
+average speed throughout this journey?
+A. 8 kmph B. 80/11 kmph C. 12 Kmph D. 10 kmph
+3. 300 meter long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds. What
+is the length of the platform?
+A. 300m B. 400 m C. 450 m D. 350 m
+4. A boat can travel with a speed of 15 km/hr in still water. If the speed of the stream is 4 km/hr, find the
+time taken by the boat to go 57 km downstream.
+A, 3 hours B. 4 hours C. 5 hours D. 6 hours
+5. What will be the distance between Chennai and Goa? I took one hour more, when I travel at 80 kmph
+than at 90 kmph.
+A. 600km B. 700 km C. 720 km D. 740 km
+6. At his usual rowing rate, Rahul can travel 12 miles downstream in a certain river in 6 hours less than it
+takes him to travel the same distance upstream. But if he could double his usual rowing rate for his 24
+mile round trip, the downstream 12 miles would then take only one hour less than the upstream 12 miles.
+What is the speed of the current in miles per hour?
+A. B. C. D.
+7. A boat covers a certain distance downstream in 1 hour, while it comes back in 1 1⁄2 hours. If the speed
+of the stream be 3 kmph, what is the speed of the boat in still water?
+A. 12 kmph B. 13 kmph C. 14 kmph D. 15 kmph
+8. In one hour, a boat goes 13 km/hr along the stream and 6 km/hr against the stream. The speed of the
+boat in still water (in km/hr) is:
+A. 9.5 kmph B. 19 kmph C. 13 kmph D. 10 kmph
+9. In covering a distance of 30 km, Akshay takes 2 hours more than Bhanu. If Akshay doubles his speed,
+then he would take 1 hour less than Bhanu. Akshay's speed is:
+A. 6 kmph B. 8 kmph C. 9 kmph D. 5 kmph
+10. In a 100 m race, A can beat B by 20 m and B can beat C by 5 m. In the same race, A can beat C by:
+A. 21 m B. 22 m C. 23 m D 24 m
+11. Two trains are running at 60 km/hr and 30 km/hr respectively in the same direction. The faster train
+completely passes a man sitting in the slower train in 60 seconds. What is the length of the fast train?
+A. 300 m B. 400 m C. 450 m D. 500 m
+12 A car starts from Hyderabad and moves towards Bangalore and at the same time, another car starts from
+Bangalore and moves towards Hyderabad. After crossing each other, they take 361 and 400 mins
+respectively to reach their destinations. What will be the speed of the first car, if the speed of the second
+car is 76 kmph?
+A. 66 kmph B. 80 kmph C. 88 kmph D. 100 kmph
+13. A can run 30 m while B runs 33 m. In a 1.1 km race B beats A by:
+A. 80 meter B. 90 meter C. 100 meter D. 110 meter
+14. There are 30 windmills with a constant distance between each pole. A car takes 38 seconds to reach the
+20th pole. How much time will it take to reach the last pole?
+A. 58 sec B. 59 Sec C. 60 sec D. 57 seconds
+15. Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17
+seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:
+A. 1:2 B. 2;3 C 3:2 D 2:1
+16. A man covers the first half of the journey at the speed of 65 kmph and the remaining at the speed of 35
+kmph. Find his average speed?
+[ QA & Professional Skills ] Page 16A. 45 kmph B. 55 kmph C. 50 kmph D. 45.5 kmph
+17 In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140
+m. Then, A wins by:
+A. 10 m B. 20 m C. 30 m D. 40 m
+18. Each day a man meets his wife at the train station after work, and then she drives him home. She always
+arrives exactly on time to pick him up. One day he catches an earlier train and arrives at the station an
+hour early. He immediately begins walking home along the same route the wife drives. Eventually his
+wife sees him on her way to the station and drives him the rest of the way home. When they arrive
+home, the man notices that they arrived 30 minutes earlier than usual. How much time did the man
+spend walking?
+A. 15 min B. 30 min C. 45 min D. 50 min
+19. A train running at 7/11 of its own speed reached a place in 22 hrs. how much time can be saved if train
+would run at its own speed ?
+A. 12 hour B. 10 hours C. 14 hours D. 16 hours
+20. A boat running downstream covers a distance of 40 km in 5 hours while for covering the same distance
+upstream, it takes 10 hours. What is the speed of the boat in still water?
+A. 4 kmph B. 5 kmph C. 6 kmph D. 8 kmph
+1 2 3 4. 5. 6. 7 8. 9. 10.
+B B D A C B D A D D
+11 12 13. 14. 15. 16 17 18 19 20
+D B C A B D B C A C
+[ QA & Professional Skills ] Page 17

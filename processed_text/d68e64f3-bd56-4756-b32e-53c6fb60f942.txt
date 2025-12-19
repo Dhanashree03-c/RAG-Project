@@ -1,0 +1,5 @@
+To rename a column in a table in SQL Server, use the following syntax:
+
+SQL Server:
+
+EXEC sp_rename "table_name.old_name’, ‘new_name', ‘COLUMN';

@@ -1,0 +1,39 @@
+Anchal Sarvesh Pandey
+Phone: 810898531
+Email: anchalpandey8850@gmail.com
+LinkedIn: Anchal Pandey
+Professional Summary
+Aspiring computer engineer currently pursuing a degree at New Horizon Institute of Technology and Management under Mumbai University. Passionate about software development and enthusiastic about building real-world applications. Goal-oriented and committed to becoming a skilled and innovative engineer.
+Education
+Bachelor of Engineering (Computer Engineering)
+New Horizon Institute of Technology and Management, Mumbai University
+Pursuing
+HSC – 12th Grade
+AES College, HSC Board
+Completed
+SSC – 10th Grade
+GMES School, SSC Board
+Completed
+Skills
+- Python
+- HTML & CSS
+- Basic Web Development
+Certifications
+Internship Certificate in Web Development
+Cloud Computing
+Html and css
+Blockchain and internet of things
+Full stack development with Mern
+Machine learning and Natural processing
+Sql course
+
+Projects
+Art Gallery App
+A digital platform that showcases various artworks, designed to provide a smooth user experience with intuitive navigation and visually appealing UI.
+Weather App
+Built a web-based weather app that displays real-time weather data using API integration.
+Personal Portfolio
+Developed a responsive personal portfolio website to showcase projects, skills, and resume.
+Additional Information
+- Quick learner and dedicated team player
+- Strong interest in software engineering and web development

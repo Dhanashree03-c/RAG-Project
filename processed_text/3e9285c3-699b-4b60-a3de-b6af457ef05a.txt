@@ -1,0 +1,16 @@
+To change the data type of a column in a table, use the following syntax:
+
+SQL Server / MS Access:
+
+ALTER TABLE table_name
+ALTER COLUMN column_name datatype;
+
+My SQL / Oracle (prior version 10G):
+
+ALTER TABLE table_name
+MODIFY COLUMN column_name datatype;
+
+Oracle 10G and later:
+
+ALTER TABLE table_name
+MODIFY column_name datatype;

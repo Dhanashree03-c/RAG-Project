@@ -1,0 +1,45 @@
+Aradhana Vinodkumar Shrivastav
+shriaradhana28@gmail.com | (+91) 9321603530 | LinkedIn | GitHub
+Career Objective
+An adaptable and curious Computer Engineering student with a passion for continuous learning in areas like
+web development and AI. I thrive in collaborative environments and am keen to apply my problem-solving
+abilities to new challenges, seeking a hands-on role where I can contribute to a team and grow my technical
+expertise.
+Education
+Bachelor of Engineering in Computer Engineering
+New Horizon Institute of Technology and Management, Mumbai University
+2022 – Present (Expected Graduation: 2026)
+HSC – Maharashtra State Board
+B.N. Bandodkar College, Thane 73.33% | 2022
+SSC – Maharashtra State Board
+GSS English High School, Majiwada 95% | 2020
+Skills
+• Web & Programming: Java, ASP.Net , C# , Python, HTML, CSS, JavaScript , React, Firebase,
+• Databases: SQL Server
+• Game Development: Unity 2D, Unreal Engine 5
+• AI & ML Tools: NLTK, VADER, HuggingFace Transformers, WordCloud
+• Tools & Platforms: VS code, Microsoft Word, Excel, PowerPoint, Google collab
+• Soft Skills – Creativity, Problem Solving, Management, Team Collaboration
+Projects
+• MovieTrivia – Interactive Movie Quote Quiz Website (C#, ASP.NET Core MVC, SQL Server)
+Built a dynamic web app where users guess movies from quotes, with randomized questions,
+session scoring, and a SQL Server leaderboard.
+• Nebula Descend – 2D Game (Unity 2D)
+Space-themed endless runner where a rocket dodges meteors while descending toward Earth. Points are
+scored based on obstacle avoidance.
+• Fist Fury – 3D Game (Unreal Engine 5)
+A realistic boxing game set in a stormy ocean arena, featuring cinematic effects, dynamic weather, and
+immersive gameplay.
+• HorizonConnect – Web App (React.js, Firebase)
+An alumni networking platform with real-time chat, event posting, comments, and likes, developed to
+connect students, alumni, and faculty.
+• Sentiment Analysis on YouTube Comments – AI/NLP Project (Python, HuggingFace, NLTK, VADER)
+Analyzed YouTube comments using NLP to predict sentiment and generate word clouds.
+Certifications & Training
+• Introduction to ASP.Net – Simplilearn| SkillUp
+• Accenture Nordics' Software Engineering - Forage
+• AI/ML Internship Certificate – Yhills EdTech
+• Python and Data Science with ML – YBI Foundation
+• Deloitte’s Cyber Job Simulation – Forage
+• Career Edge: Young Professional – TCS iON
+• Fundamentals of Cybersecurity (EDU‑102) – Zscaler Academy

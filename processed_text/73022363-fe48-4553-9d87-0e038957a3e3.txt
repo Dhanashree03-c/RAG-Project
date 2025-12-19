@@ -1,0 +1,150 @@
+HTML (Level 1) - Part A
+(MDN)
+Introduction to HTML
+HTML Elements & Tags
+Hello World
+Paragraph Element
+Heading Elements
+Boilerplate Code
+HTML (Level 1) - Part B
+Lists in HTML
+Attributes in HTML
+Anchor Element
+Image Element
+More HTML Tags
+Comments in HTML
+Is HTML Case Sensitive?
+HTML (Level 2)
+Inline v/s Block
+Div Element
+Span Element
+Hr Tag
+Sup & Sub Tags
+Semantic Markup
+Semantic Tags
+HTML Entities
+Emmets
+Further Understanding HTML
+HTML (Level 3)
+Tables in HTML
+Semantics in Tables
+Colspan & Rowspan Attributes
+Forms in HTML
+Input - Form Element
+Placeholders & Labels
+Button Element
+Name Attribute
+Checkbox - Input Element
+Radio - Input Element
+Select - Input Element
+Range - Input Element
+Text Area
+CSS - Getting Started
+What is CSS?
+Basic CSS Format
+Including CSS
+Color Property
+Background Color Property
+Color Systems (Name & RGB)
+Hex Codes
+Text Align Property
+Font Weight & Text Decoration
+Line Height & Letter Spacing
+Units in CSS (Pixel)
+Font Family
+CSS - Part 2
+Universal Selector
+Element Selector
+Id Selector
+Class Selector
+Descendant Selector
+Sibling Combinator
+Child Combinator
+Attribute Selector
+Pseudo Class
+Pseudo Element
+Cascading & Specificity
+!important in CSS
+Inheritance
+CSS - Part 3
+Box Model
+Height & Width
+Border
+Border Radius
+Padding Property
+Margin Property
+Display Property
+Inline-Block
+Relative Units (Percentage)
+Em & Rem in Units
+CSS - Part 4
+Alpha & Opacity
+Transitions in CSS
+Transform - Rotate
+Tranform - Scale
+Transform - Translate
+Transform - Skew
+Box Shadow
+Background Image
+Card Hover Effect
+Position Property
+Simple Smiley Face
+CSS Part 5
+What is Flexbox?
+Display Flex
+Flex Direction
+Justify Content
+Flex Wrap
+Align Items
+Align Content
+Align Self
+Flex Sizing
+Flex Shorthand
+CSS Part 6
+What is Grid?
+Grid Model 
+Grid Template
+Grid Template (Repeat)
+Grid Gaps
+Grid Columns
+Grid Rows
+Grid Properties
+Animation in CSS
+Animation Shorthand
+% in Animation
+Media Queries
+Media Queries (Orientation)
+Pet Adoption page
+Z-index
+Bootstrap
+(Getbootstrap.com)
+What is Bootstrap?
+Bootstrap is a Framework toolkit. It works same as CSS. It works on the same concept of Flexbox in CSS. Bootstrap has many pre-built components like button, forms, navbar, card, etc. Bootstrap is a powerful, feature-packed frontend toolkit. Build anything – from prototype – in minutes. It contains pre-built CSS files like style.css from which we can import any style. 
+Benefits of Bootstrap:
+Makes Development Faster & Easier
+Good choice of pre-built components
+good browser Compatibility
+Using Bootstrap
+cdn – Content Delivery Network ( It provides data/content from nearby server rather than which are far and in result it reduces loading time. )
+
+Components - pre-built and reusable piece of user interface (UI). eg - button, forms
+Layouts - overall structure and arrangement of the elements. eg - container, grid
+Container (Layout)
+Containers are used to contain, pad, and (sometimes) center the content within them.
+Button (Component)
+There are many features related to button which we can explore on MDN.
+Badge (Component)
+These are headings. For example, on Whatsapp, Inbox, Snapchat, etc. we see how many messages I got in numbers. We can explore more on Bootstrap MDN link.
+Alert (Component)
+Alert Message/PopUp - “A simple success alert-check it out!”. 
+Button Group (Component)
+A group of buttons without any margin between them.
+Navbar (Component)
+It is a Navigation Bar at top of the website. We can add an image (i.e. Logo) inside Navbar easily using Bootstrap. 
+Card (Component)
+Grid (Layout)
+Grid (Vertical Alignment)
+Form Controls in Bootstrap
+Select in Form
+Checkbox & Radio in Form
+Form Layout
