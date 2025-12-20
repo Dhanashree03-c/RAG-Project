@@ -137,7 +137,7 @@ async def ask_question(question: str):
     threshold = 10.0
     top_distance = float(D[0][0])
 
-    # ========== CASE 1: documents selected ==========
+    # CASE 1: documents selected 
     if top_distance < threshold:
 
         context = "\n\n".join([documents[i] for i in I[0]])
@@ -211,7 +211,7 @@ QUESTION:
         }
 
 
-    # ========== CASE 2: direct google fallback ==========
+    #CASE 2: direct google fallback 
     google_context = google_fallback(question)
 
     prompt_g = f"""
