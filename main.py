@@ -16,7 +16,7 @@ from readability import Document
 from pydantic import BaseModel
 
 #MONGODB ATLAS SETUP
-MONGO_URI = "mongodb+srv://tankardhanashree05_db_user:qtlBmgKu7m9bppWd@cluster0.zdc8mpn.mongodb.net/?appName=Cluster0"
+MONGO_URI = "mongodb+srv://<username>:<password>@cluster0.zdc8mpn.mongodb.net/?appName=Cluster0"
 client = MongoClient(MONGO_URI)
 db = client["document_db"]
 collection = db["documents"]                    # document chunks + metadata
