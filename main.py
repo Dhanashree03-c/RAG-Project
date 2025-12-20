@@ -13,12 +13,15 @@ from datetime import datetime, timezone
 from googlesearch import search
 from bs4 import BeautifulSoup
 from readability import Document
+from pydantic import BaseModel
 
 #MONGODB ATLAS SETUP
-MONGO_URI = "mongodb+srv://<username>:<password>@cluster0.zdc8mpn.mongodb.net/?appName=Cluster0"
+MONGO_URI = "mongodb+srv://tankardhanashree05_db_user:qtlBmgKu7m9bppWd@cluster0.zdc8mpn.mongodb.net/?appName=Cluster0"
 client = MongoClient(MONGO_URI)
 db = client["document_db"]
-collection = db["documents"]
+collection = db["documents"]                    # document chunks + metadata
+metrics_collection = db["metrics"]
+aps_collection = client["vuln_db"]["aps_scores"]
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
@@ -40,7 +43,7 @@ index = faiss.IndexFlatL2(embedding_dim)
 documents = []   # stores chunk text
 doc_ids = []     # stores document IDs
 
-#UTILS 
+#UTILS
 def extract_text(file_path: str, filename: str) -> str:
     if filename.endswith((".png", ".jpg", ".jpeg")):
         text = pytesseract.image_to_string(Image.open(file_path))
@@ -70,7 +73,7 @@ def chunk_text(text, chunk_size=500, overlap=100):
         start = end - overlap
     return chunks
 
-# GOOGLE SEARCH FALLBACK
+#GOOGLE SEARCH FALLBACK
 def google_fallback(query, num_results=5):
     urls = list(search(query + " wikipedia", num_results=num_results))
     contents = []
@@ -85,6 +88,99 @@ def google_fallback(query, num_results=5):
         except:
             continue
     return "\n\n".join(contents)
+
+#NEW SECTION - APS / PRIORITIZATION MODEL
+
+# Criticality mapping
+criticality_map = {"Low": 1, "Medium": 5, "High": 10}
+
+#Example APS formula
+def compute_APS(cvss, epss_prob, kev_present, criticality_score):
+    return round(
+        0.4 * cvss +            # technical severity
+        0.3 * epss_prob * 10 +  # real-world exploit probability scaled
+        0.2 * (1 if kev_present else 0) +
+        0.1 * criticality_score,      # business impact
+        2
+    )
+
+class VulnScoreRequest(BaseModel):
+    cve: str
+    cvss: float
+    kev: bool
+    epss: float
+    poc: bool
+    criticality: str
+    exposure: str
+    regulatory_scope: list
+    patch_available: bool
+    complexity: str
+    
+@app.post("/score_vuln")
+async def score_vuln(req: VulnScoreRequest):
+    criticality_score = criticality_map.get(req.criticality, 1)
+    aps = compute_APS(req.cvss, req.epss, req.kev, criticality_score)
+
+    aps_collection.insert_one({
+        "cve": req.cve,
+        "cvss": req.cvss,
+        "epss": req.epss,
+        "kev": req.kev,
+        "criticality": req.criticality,
+        "aps": aps,
+        "timestamp": datetime.now(timezone.utc)
+    })
+
+    return {
+        "cve": req.cve,
+        "APS_score": aps,
+        "explanation_reference": f"/explain/{req.cve}"
+    }
+    
+#NEW SECTION - XAI EXPLANATION ENDPOINT
+@app.get("/explain/{cve_id}")
+async def explain_score(cve_id: str):
+
+    record = aps_collection.find_one({"cve": cve_id})
+    if not record:
+        return {"error": "CVE not scored"}
+
+    text = f"""
+Explain why the APS score was assigned.
+
+CVSS Score: {record['cvss']}
+EPSS Probability: {record['epss']}
+KEV Present: {record['kev']}
+Criticality: {record['criticality']}
+Final APS Score: {record['aps']}
+    """
+
+    response = requests.post(
+        "http://localhost:11434/api/generate",
+        json={"model": "llama3","prompt": text,"stream": False}
+    )
+
+    return {
+        "cve": cve_id,
+        "aps_score": record["aps"],
+        "explanation": response.json().get("response","")
+    }
+
+#NEW SECTION - METRICS LOGGING
+
+@app.post("/log_metrics")
+async def log_metrics(total_vulns:int, total_high:int, mttr:float):
+
+    metrics_collection.insert_one({
+        "total_vulnerabilities": total_vulns,
+        "high_aps_count": total_high,
+        "mean_time_to_remediate": mttr,
+        "timestamp": datetime.now(timezone.utc)
+    })
+
+    return {"status":"metrics_logged"}
+
+#ORIGINAL RAG ENDPOINTS REMAIN UNCHANGED BELOW
 
 #FILE UPLOAD 
 @app.post("/upload")
