@@ -43,7 +43,9 @@ doc_ids = []     # stores document IDs
 #UTILS 
 def extract_text(file_path: str, filename: str) -> str:
     if filename.endswith((".png", ".jpg", ".jpeg")):
-        return pytesseract.image_to_string(Image.open(file_path))
+        text = pytesseract.image_to_string(Image.open(file_path))
+        print("OCR RESULT:", text)
+        return text
 
     elif filename.endswith(".pdf"):
         text = ""
@@ -132,14 +134,13 @@ async def ask_question(question: str):
     q_embedding = embedder.encode([question]).astype("float32")
     D, I = index.search(q_embedding, k=3)
 
-    threshold = 10.0   
-
+    threshold = 10.0
     top_distance = float(D[0][0])
 
-    # case 1: document match exists
+    # ========== CASE 1: documents selected ==========
     if top_distance < threshold:
+
         context = "\n\n".join([documents[i] for i in I[0]])
-        source = "documents"
 
         prompt = f"""
 SYSTEM:
@@ -152,40 +153,89 @@ CONTEXT:
 QUESTION:
 {question}
 """
-    
-    # case 2: google fallback
-    else:
-        context = google_fallback(question)
-        source = "google"
 
-        if not context.strip():
-            context = "No usable webpage text extracted."
-        
-        prompt = f"""
+        doc_response = requests.post(
+            "http://localhost:11434/api/generate",
+            json={
+                "model": "llama3",
+                "prompt": prompt,
+                "stream": False
+            }
+        )
+
+        doc_answer = doc_response.json().get("response","")
+
+        not_found_markers = [
+            "not found in document",
+            "no relevant",
+            "cannot answer",
+            "no information"
+        ]
+
+        # check if doc failed -> fallback
+        if any(m in doc_answer.lower() for m in not_found_markers):
+
+            google_context = google_fallback(question)
+
+            prompt2 = f"""
 SYSTEM:
-You are a web-augmented assistant.
-Answer based only on webpage context.
+Web-augmented answer. Use only WEB CONTEXT.
 
 WEB CONTEXT:
-{context}
+{google_context}
 
 QUESTION:
 {question}
 """
 
-    response = requests.post(
+            g_res = requests.post(
+                "http://localhost:11434/api/generate",
+                json={
+                    "model": "llama3",
+                    "prompt": prompt2,
+                    "stream": False
+                }
+            )
+
+            return {
+                "answer": g_res.json().get("response",""),
+                "source": "google_fallback_after_doc",
+                "distance": top_distance
+            }
+
+        # document answered correctly
+        return {
+            "answer": doc_answer,
+            "source": "documents",
+            "distance": top_distance
+        }
+
+
+    # ========== CASE 2: direct google fallback ==========
+    google_context = google_fallback(question)
+
+    prompt_g = f"""
+SYSTEM:
+Web-augmented answer. Use only WEB CONTEXT.
+
+WEB CONTEXT:
+{google_context}
+
+QUESTION:
+{question}
+"""
+
+    google_response = requests.post(
         "http://localhost:11434/api/generate",
         json={
             "model": "llama3",
-            "prompt": prompt,
+            "prompt": prompt_g,
             "stream": False
         }
     )
 
-    answer = response.json().get("response","")
-
     return {
-        "answer": answer,
-        "source": source,
+        "answer": google_response.json().get("response",""),
+        "source": "google",
         "distance": top_distance
     }
