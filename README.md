@@ -44,11 +44,44 @@ POST /upload — upload and process documents
 
 POST /ask — ask questions from uploaded content
 
+## MongoDB Setup (for metadata + query logging)
+
+MongoDB is used to store metadata associated with uploaded documents, extracted text references, timestamps, and optionally store incoming questions and generated responses.
+
+1. Install MongoDB
+
+Windows/macOS/Linux download:
+
+https://www.mongodb.com/try/download/community
+
+Verify installation:
+
+mongod --version
+
+2. Start MongoDB server
+
+Windows/macOS via services
+or Linux:
+
+sudo systemctl start mongod
+
+3. Configure MongoDB URI in project
+
+In main.py:
+
+from pymongo import MongoClient
+
+MONGO_URI = "mongodb://localhost:27017"
+client = MongoClient(MONGO_URI)
+db = client["rag_db"]
+collection = db["documents"]
+
 ## Requirements
 
 - Python 3.9+
 - Ollama
 - Tesseract OCR
+- MongoDB installed and running
 
 ## 1.Create and activate virtual environment
 

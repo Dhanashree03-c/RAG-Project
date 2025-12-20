@@ -37,3 +37,5 @@ vector_store/
 # Uploaded files (if you don’t want to store them in Git)
 uploads/
 processed_text/
+
+node_modules/
